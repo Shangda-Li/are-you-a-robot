@@ -1,24 +1,41 @@
 ! version = 2.0
 
 + hello
-- Hello, what is your name?
+- Hello, what do you want from me
 
 + _
-% hello what is your name
-- Nice to meet you <formal>!
+% hello what do you want from me
+- Nice chice here you are your <formal>
 
-+ my name is *
-- Nice to meet you <star>
-- Nice meeting you <star>
++ i want *
+- 给你 <star>
+- 小 <star>来喽
+- little little <star> flying to you~!
+
++ i dont want * i want *
+- ...Don't want<star>? Fine...........
+
++ give me *
+- <star>???
+- 哦哇哦～！<star>! 懂你了
+
++ guacha
+- Who's there?
+
++ *
+% who is there
+- <star> who?
+
++ *
+% * who
+- LOL! <star>! That's funny!
 
 + thank you
 - You are welcome
 - Welcome
 - No problem
 - No worries!
+- 老子乐意帮你
 
 + *
-- Sorry did not get what you said
-- I am afraid that I can not understand you
-- Sorry can you please elaborate that for me
-- I don't get it!
+- 「DOGE」
