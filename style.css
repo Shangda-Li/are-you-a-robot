@@ -8,7 +8,7 @@
 }
 
 body {
-  background: #f2f2f2;
+  background: #0d00ff;
 }
 
 .title {
@@ -20,7 +20,7 @@ body {
 
 .title h1 {
   letter-spacing: 0.75px;
-  color: blueviolet;
+  color: rgb(255, 255, 255);
 }
 
 .wrapper {
@@ -28,8 +28,8 @@ body {
 }
 
 .chat {
-  background: white;
-  box-shadow: 10px 10px 0px blueviolet;
+  background: rgb(0, 30, 255);
+  box-shadow: 10px 10px 0px rgb(255, 255, 255);
   overflow: scroll;
   height: 100%;
   display: flex;
@@ -53,27 +53,27 @@ body {
 }
 
 .messages div a {
-  color: white;
+  color: rgb(34, 0, 255);
 }
 
 .messages div a:hover {
-  color: blueviolet;
+  color: rgb(0, 42, 255);
 }
 
 .messages .bot {
   text-align: left;
   margin-right: auto;
   background: black;
-  color: white;
+  color: rgb(255, 0, 0);
 }
 
 .messages .self {
   text-align: right;
   margin-right: 20px;
   margin-left: auto;
-  background: white;
-  border: 1px solid blueviolet;
-  color: blueviolet;
+  background: rgb(163, 134, 255);
+  border: 1px solid rgb(14, 5, 255);
+  color: rgb(73, 43, 226);
 }
 
 .actions {
@@ -82,7 +82,7 @@ body {
   position: sticky;
   bottom: -1px;
   padding: 10px 0px 20px;
-  background: white;
+  background: rgb(95, 106, 255);
 }
 
 .actions input {
