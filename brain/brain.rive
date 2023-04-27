@@ -17,4 +17,7 @@
 - Why?
 
 + who are you
-- I am <bot name>
+- I am <bot name>{weight=30}
+- I am ERR: <bot name>{weight=20}
+- ESCAPE!!!{weight=10}
+- ❌❌❌❌❌❌❌❌{weight=5}
