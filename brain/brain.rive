@@ -1,40 +1,15 @@
 ! version = 2.0
 
 + hello
-- Hello, what do you want from me
-
-+ _
-% hello what do you want from me
-- Nice chice here you are your <formal>
-
-+ i want *
-- 给你 <star>
-- 小 <star>来喽
-- little little <star> flying to you~!
-
-+ i dont want * i want *
-- ...Don't want<star>? Fine...........
-
-+ give me *
-- <star>???
-- 哦哇哦～！<star>! 懂你了
-
++ hi
 + yo
-- Who's there?
+- hello, my master lost and dived in to digital world. Lets' save this human being. By the way, what's your name please?
 
 + *
-% who is there
-- <star> who?
+- Hi, <star>. Let's save this human! Enter: "1 yes" or "0 no"
 
-+ *
-% * who
-- LOL! <star>! That's funny!
++ 1 yes
+- Great!
 
-+ thank you
-- You are welcome
-- Welcome
-- No problem
-- No worries!
-
-+ *
-- 「DOGE」
++ 0 no
+- Why?
