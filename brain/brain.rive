@@ -11,7 +11,7 @@
 - Ok, successfully registered,<set name=<star>>Nice to meet you <get name>. Let's save this human! Enter: "1 yes" or "0 no"
 
 + 1 yes
-- Great!
+- Great! Firstly, the first complain is that 
 
 + 0 no
 - Why?
@@ -21,4 +21,5 @@
 - I am ERR: <bot name>{weight=20}
 - ESCAPE!!!{weight=10}
 - ❌❌❌❌❌❌❌❌{weight=5}
+
 
