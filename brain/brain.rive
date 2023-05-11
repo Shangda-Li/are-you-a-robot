@@ -8,7 +8,7 @@
 - Hello, I saw the complain of you, I'm here to help you...! I'm ai-25. I'm a VR you can use to go into virtual reality. You can do any thing here. Please enter your name you prefered by "I am XXX" to register.
 
 + i am *
-- Ok, successfully registered,<set name=<star>>Nice to meet you <get name>. Let's save this human! Enter: "1 yes" or "0 no"
+- Ok, successfully registered,<set name=<star>>Nice to meet you <get name>. Enter: "1 yes" or "0 no"
 
 + 1 yes
 - Great! Firstly, the first complain is your couple cheated you. In my world you can be with the exact same person be with the <human> for ever. Reply: "2 yes" or "3 no"
