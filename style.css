@@ -8,7 +8,7 @@
 }
 
 body {
-  background-image: url("https://mmbiz.qpic.cn/sz_mmbiz_jpg/vHG9VD5FWlmLbluFdxMJMI0SyriaJMvIm2eq1ics6e3rRZuwR6vKl7yNnM4SOf85QbB5uat3acUrkLdBT3PgxUpw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1");
+  background-image: url("AI-25.jpg");
 }
 
 .title {
@@ -28,8 +28,8 @@ body {
 }
 
 .chat {
-  background: rgb(41, 30, 108);
-  box-shadow: 10px 10px 0px rgb(43, 43, 43);
+  background: rgb(43, 23, 102);
+  box-shadow: 10px 10px 0px rgb(14, 5, 70);
   overflow: scroll;
   height: 100%;
   display: flex;
