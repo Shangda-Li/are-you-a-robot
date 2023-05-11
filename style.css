@@ -28,8 +28,8 @@ body {
 }
 
 .chat {
-  background: rgb(0, 30, 255);
-  box-shadow: 10px 10px 0px rgb(255, 255, 255);
+  background: rgb(43, 51, 164);
+  box-shadow: 10px 10px 0px rgb(19, 32, 151);
   overflow: scroll;
   height: 100%;
   display: flex;
@@ -64,16 +64,16 @@ body {
   text-align: left;
   margin-right: auto;
   background: black;
-  color: rgb(255, 0, 0);
+  color: rgb(98, 120, 219);
 }
 
 .messages .self {
   text-align: right;
   margin-right: 20px;
   margin-left: auto;
-  background: rgb(163, 134, 255);
-  border: 1px solid rgb(14, 5, 255);
-  color: rgb(73, 43, 226);
+  background: rgb(167, 22, 22);
+  border: 1px solid rgb(146, 39, 39);
+  color: rgb(206, 66, 66);
 }
 
 .actions {
@@ -82,7 +82,7 @@ body {
   position: sticky;
   bottom: -1px;
   padding: 10px 0px 20px;
-  background: rgb(95, 106, 255);
+  background: rgb(0, 72, 255);
 }
 
 .actions input {
