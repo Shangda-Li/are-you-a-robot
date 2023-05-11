@@ -1,14 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;800&display=swap");
 
 * {
-  font-family: "Inter", 'Times New Roman', Times, serif;
+  font-family: Monospace;
   font-size: 12pt;
   margin: 0;
   box-sizing: border-box;
 }
 
 body {
-  background: #110474;
+  background-image: url("https://mmbiz.qpic.cn/sz_mmbiz_jpg/vHG9VD5FWlmLbluFdxMJMI0SyriaJMvIm2eq1ics6e3rRZuwR6vKl7yNnM4SOf85QbB5uat3acUrkLdBT3PgxUpw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1");
 }
 
 .title {
