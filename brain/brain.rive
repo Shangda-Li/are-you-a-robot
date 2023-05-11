@@ -2,19 +2,22 @@
 ! var name = ai-25
 
 + hi
-- Hi, I saw the complain of you, I'm here to help you...! I'm ai-25. I'm a VR you can use to go into virtual reality. You can do any thing here. Please enter your name you prefered by "I am XXX" to register.
-
-+ hello
-- Hello, I saw the complain of you, I'm here to help you...! I'm ai-25. I'm a VR you can use to go into virtual reality. You can do any thing here. Please enter your name you prefered by "I am XXX" to register.
+- Hi, I'm <bot name>, what is your name?
 
 + i am *
-- Ok, successfully registered,<set name=<star>>Nice to meet you <get name>. Enter: "1 yes" or "0 no"
+- <set name=<star>>Nice to meet you <get name>. Want to take risks? This is a rare opportunity! You can get everything you want through the game task, whether it is money or goods, or even everything that can satisfy your spiritual world...Please enter your answer "yes" or "no".
 
-+ 1 yes
-- Great! Firstly, the first complain is your couple cheated you. In my world you can be with the exact same person be with the <human> for ever. Reply: "2 yes" or "3 no"
++ yes
+- OK!!!!Let's start! I'm so excited....(type "go" to continue)
 
-+ 0 no
-- Bad result: FAIL.
++ no
+- YOU MUST CHOOSE 'YES'.
+
++ go
+- Let me show you something.Follow me...Can you see that man? He is already an old player of ours, and he has almost passed all our games. Do you know how powerful this is? Except for him, few people can finish the games here, because it's too difficult... By the way, the value of his reward for playing our game is far beyond your imagination...If you are a s*ck gamer, maybe you can ask him to teach you...Although I'm not sure if he will help you.
+
++ [*] (man|help) [*]
+- Yes! Let's join in!
 
 + who are you
 - I am <bot name>{weight=30}

@@ -20,7 +20,7 @@ body {
 
 .title h1 {
   letter-spacing: 0.75px;
-  color: rgb(0, 0, 0);
+  color: rgb(14, 94, 241);
 }
 
 .wrapper {
@@ -28,7 +28,7 @@ body {
 }
 
 .chat {
-  background: rgb(0, 0, 0);
+  background: rgb(41, 30, 108);
   box-shadow: 10px 10px 0px rgb(43, 43, 43);
   overflow: scroll;
   height: 100%;
@@ -82,7 +82,7 @@ body {
   position: sticky;
   bottom: -1px;
   padding: 10px 0px 20px;
-  background: rgb(0, 0, 0);
+  background: rgb(41, 30, 108);
 }
 
 .actions input {
