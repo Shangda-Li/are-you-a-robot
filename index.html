@@ -3,7 +3,15 @@
     <title>ai-25</title>
     <link rel="stylesheet" href="./style.css" />
   </head>
-  <body>
+  <body class="cursor" onclick="play()">
+    <audio id="audio">
+      <source src="AI-25bgm.mp3" type="audio/mpeg" />
+      <source src="AI-25bgm.ogg" type="audio/ogg" />
+      <p>
+        Your browser doesn't support HTML5 audio. Here is a
+        <a href="AI-25bgm.mp3">link to the audio</a> instead.
+      </p>
+    </audio>
     <div class="title">
       <h1>ai-25</h1>
     </div>
@@ -20,5 +28,11 @@
       crossorigin="anonymous"
     ></script>
     <script src="./script.js"></script>
+    <script>
+      function play() {
+        var audio = document.getElementById("audio");
+        audio.play ();
+      }
+    </script>
   </body>
 </html>
