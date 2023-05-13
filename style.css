@@ -7,8 +7,9 @@
   box-sizing: border-box;
 }
 
-body {
-  background-image: url("AI-25background.gif");
+body{
+  background-image: url(AI-25backgroundloop.gif);
+  background-size: cover;
 }
 
 .title {
