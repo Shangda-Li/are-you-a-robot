@@ -14,13 +14,43 @@
 - YOU MUST CHOOSE 'YES'.
 
 + go
-- Let me show you something.Follow me...Can you see that man? He is already an old player of ours, and he has almost passed all our games. Do you know how powerful this is? Except for him, few people can finish the games here, because it's too difficult... By the way, the value of his reward for playing our game is far beyond your imagination...If you are a s*ck gamer, maybe you can ask him to teach you...Although I'm not sure if he will help you.
+- Let me show you something. 
+^ Follow me...Can you see that man? 
+^ He is already an old player of ours, 
+^ and he has almost passed all our games. 
+^ Do you know how powerful this is? Except for him, 
+^ few people can finish the games here, because it's too difficult... 
+^ By the way, the value of his reward for playing our game is 
+^ far beyond your imagination...If you are a s*ck gamer, 
+^ maybe you can ask him to teach you...Although 
+^ I'm not sure if he will help you. Join?
 
-+ [*] (man|help|help) [*]
++ [*] (man|help) [*]
 - Yes! Let's join in!
 
 + [*] (join|ok|fine) [*]
-- Welcome to virtual world! You walk forward and walk behind the man who is playing the game seriously. His whole head is covered by a strange black machine, The bent back is constantly trembling, and the hand holding the game handle is risking fine sweat, which seems to be particularly nervous because of the difficult game.You reached out and patted him on the shoulder. Obviously, he was scared, and he collapsed to the ground, breathing heavily. Are you tired?
+- Welcome to virtual world! 
+^ You walk forward and walk behind the man 
+^ who is playing the game seriously. 
+^ His whole head is covered by a strange black machine, 
+^ The bent back is constantly trembling, 
+^ and the hand holding the game handle is risking fine sweat, 
+^ which seems to be particularly nervous because of the difficult game.
+^ You reached out and patted him on the shoulder. 
+^ Obviously, he was scared, and he collapsed to the ground, 
+^ breathing heavily. Watching the man in front of you act so angry, 
+^ you can't help but feel puzzled.
+^ A few questions come to mind that you want to ask him……
+^ 1.why are you here 2.is it you 3.I went the wrong way, sorry （chose an option-number）
+
++ 1 why are you here
+- This is my home! ! Where else can I be? It's strange what you're asking
+
++ 2 is it you
+- what are you talking about? ? ? I do not understand
+
++ 3 went the wrong way sorry
+- Ok,f*ck off. Don't disturb me playing games anymore
 
 + who are you
 - I am <bot name>{weight=30}

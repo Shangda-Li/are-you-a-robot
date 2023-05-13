@@ -8,7 +8,7 @@
 }
 
 body {
-  background-image: url("AI-25.jpg");
+  background-image: url("AI-25background.gif");
 }
 
 .title {
@@ -28,7 +28,7 @@ body {
 }
 
 .chat {
-  background: rgb(100, 70, 190);
+  background: rgb(27, 143, 216);
   box-shadow: 10px 10px 0px rgb(14, 5, 70);
   overflow: scroll;
   height: 100%;
@@ -63,7 +63,7 @@ body {
 .messages .bot {
   text-align: left;
   margin-right: auto;
-  background:rgb(100, 70, 190);
+  background:rgb(27, 143, 216);
   border: 3px solid rgb(28, 70, 13);
   color: rgb(15, 85, 17);
 }
@@ -72,7 +72,7 @@ body {
   text-align: right;
   margin-right: 20px;
   margin-left: auto;
-  background: rgb(100, 70, 190);
+  background: rgb(27, 143, 216);
   border: 3px solid rgb(28, 70, 13);
   color: rgb(15, 85, 17);
 }
@@ -83,7 +83,7 @@ body {
   position: sticky;
   bottom: -1px;
   padding: 10px 0px 20px;
-  background: rgb(41, 30, 108);
+  background: rgb(27, 143, 216);
 }
 
 .actions input {
