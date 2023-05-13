@@ -4,20 +4,12 @@
     <link rel="stylesheet" href="./style.css" />
   </head>
   <body class="cursor" onclick="play()">
-    <audio id="audio">
+    <audio id="audio" loop>
       <source src="AI-25bgm.mp3" type="audio/mpeg" />
       <source src="AI-25bgm.ogg" type="audio/ogg" />
       <p>
         Your browser doesn't support HTML5 audio. Here is a
         <a href="AI-25bgm.mp3">link to the audio</a> instead.
-        <script>
-          var audio = document.getElementById("audio");
-          audio.addEventListener("ended", function() {
-            this.currentTime = 0; 
-            this.play();
-          });
-          audio.play();
-        </script>
       </p>
     </audio>
     <div class="title">
