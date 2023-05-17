@@ -10,6 +10,14 @@
 body{
   background-image: url(AI-25backgroundloop.gif);
   background-size: cover;
+  position: relative;
+}
+
+#overlay {
+  position: absolute;
+  top: 0;
+  left: 1000;
+  z-index: 2;
 }
 
 .title {
