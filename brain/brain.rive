@@ -30,7 +30,7 @@
 + yes
 - OK!!!!Let's start! I'm so excited.... 
 ^ \n
-^ <span class="suggestion">type "go" to continue.</span>
+^ <span class="suggestion">enter "go" to continue.</span>
 
 + [*] (no|no) [*]
 - YOU MUST CHOOSE 'YES'.
@@ -227,17 +227,21 @@
 ^ <span class="suggestion">True ending - Successful challenge!</span>
 
 + [*] (is that you|2 is that you) [*]
-- what are you talking about? ? ? I do not understand (notice: still workingon this)
-^ You can try explain to him: This virtual world doesn't exist at all. 
-^ <span class="suggestion">I need to take you back to the real world, get out of here, 
-^ come with me!</span>
+- what are you talking about? ? ? I do not understand.
+^ \n
+^ <span class="suggestion">You can try explain to him: This virtual world doesn't exist at all. </span>
+^ <span class="suggestion">“I need to take you back to the real world, get out of here, 
+^ come with me!”</span>
 
-+ [*] (exist|virtual|real|real world|come|leave|get out) [*]
++ [*] (exist|virtual|real|real world|come|get out) [*]
 - NO. It is impossible for me to leave with you! This - is the place
 ^ \n
 ^ --- I always lived.
 ^ Why? Why should I go back? Back where?
-^ How nice here is!! I fulfilled my dream here. I have house, cars...
+^ \n
+^ How nice here is!! I fulfilled my dream here.
+^ \n
+^ I have house, cars...
 ^ \n
 ^ I spend every day without any worries and pressure. 
 ^ Oh my - I love here so much.
@@ -245,9 +249,12 @@
 ^ \n
 ^ I want is more useful than Aladdin's lamp.
 ^ \n
-^ Wouldn't you like to live like that? <span class="suggestion">Yes or No</span>
+^ Wouldn't you like to live like that? 
+^ \n
+^ <span class="suggestion">1 (yes) or 0 (no)</span>
+^ <span class="suggestion"> choose a NUMBER</span>
 
-+ yes
++ 1
 - haha that's great!!! It seems you have the same idea as I do, 
 ^ \n
 ^ you can now enjoy life here with me. 
@@ -258,14 +265,16 @@
 ^ challenge failed.
 ^ <span class="suggestion">bad ending - drawn in drowning</span>
 
-+ no
++ 0
 - Why? (After looking at him with a 
 ^ puzzled look on your face and a moment of reflection, you say:)
 ^ <span class="suggestion">tips: you can see something like: 
-^ It IS attractive, 
+^ It IS attractive,
 ^ but where is the perfect world? 
+^ \n
 ^ There is no such thing as a pie fall from the sky, 
-^ there are gains and losses. 
+^ there are gains and losses.
+^ \n
 ^ I'm a firm believer that the only way to get what you really want is to work hard, 
 ^ not to daydream about it here. So, come back with me and fight! 
 ^ It's a great feeling of achievement when you succeed!</span>
@@ -279,14 +288,18 @@
 ^ <span class="suggestion">tips: try asking something as following: 
 ^ key words: Emotional Sensitivity;
 ^ \n
-^ \n
 ^ feel loved
+^ \n
 ^ completely disconnected from everyone else.</span>
+and
 ^ 2. Losing the ability to feel things - 
 ^ <span class="suggestion"> Ask him about following things :
 ^ Can you feel the wind?
+^ \n
 ^ Can you feel the sensation of two falling on you?
+^ \n
 ^ Can you feel the sound of thunder and lightning? Birds?</span>
+^ \n <span class="suggestion"> choose either way to continue</span>
 
 + [*] (see|smell|clouds|hear|birds|feel|wind|sensation|thunder|lightning) [*]
 - I'm sure I can. This is just the normal world. 
@@ -296,7 +309,8 @@
 ^ So you said,
 ^ <span class="suggestion"> Continue ask the following:
 ^ You can't sense any of these because they're all virtual. 
-^ It's just an illusion. </span>
+^ It's just an illusion. 
+^ key words: virtual, illlusion</span>
 
 + [*] (virtual|illusion) [*]
 - The man opened the window and found all thins around are just fake.
@@ -315,12 +329,12 @@
 ^ this continues, you will become a strange creature, 
 ^ perhaps no longer human. So come back with me. It's the only way out! </span>
 ^ Man: I don't want to become a monster... 
-^ <span class="suggestion"> Now, press the command:
+^ <span class="suggestion"> Now, enter the command:
 ^ \n
 ^ LEAVE THE VIRTUAL WORLD
 ^ \n </span>
 
-+ leave the world
++ leave the virtual world
 - No!!... I don't want to become a strange person...
 ^ \n
 ^ I'll go back with you... I want to leave this place...
@@ -328,7 +342,7 @@
 ^ and you bring him back to the real world! Challenge successful~
 ^ <span class="suggestion"> Good ending - success challenge </span>
 
-+ [*] (feelings|love|emotions|people|disconnect) [*]
++ [*] (feelings|love|emotions|people|disconnect|emotional sensitivity) [*]
 - No way...
 ^ <span class="suggestion">tips: continue telling him that
 ^ he is too selfish. Tell him to clear his mind.</span>
@@ -336,10 +350,10 @@
 + [*] (clear|mind|selfish) [*]
 - The man sart to think deeply. It seems that he is recalling something.
 ^ You cateched this chance, told him about the eternal love. The man started hesitate.
-^ <span class="suggestion">tips: Take this chance! Tell him:
-^ STOP hesitate and LEAVE!</span>
+^ <span class="suggestion">tips: Take this chance! ENTER THE COMMAND:
+^ Do not hesitate and LEAVE!</span>
 
-+ [*] (stop|hesitate|leave) [*]
++ [*] (do not hesitate and leave) [*]
 //Random success or failure here.
 - Success: If I can't get both then I'll take the former... go home! 
 ^ Thank you! Finally the man gives up everything here and goes back 
