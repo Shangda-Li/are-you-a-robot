@@ -394,6 +394,6 @@ and
 ^ \n
 ^ ERR:?
 - random reply [Hello?] {weight=20}
-- Random: [ooooooooooooooooo {weight=20} 
+- Random 2 : [ooooooooooooooooo {weight=20} 
 - Random x ; 「1110100101010010101 {weight=20}
-- Subsrribe. {weight=20}
+- Random 3; Subscribe. {weight=20}
