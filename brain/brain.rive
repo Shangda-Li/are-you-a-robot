@@ -275,8 +275,12 @@
 ^ There is no such thing as a pie fall from the sky, 
 ^ there are gains and losses.
 ^ \n
-^ I'm a firm believer that the only way to get what you really want is to work hard, 
-^ not to daydream about it here. So, come back with me and fight! 
+^ I'm a firm believer that the only way to get 
+^ \n
+^ what you really want is to work hard, 
+^ not to daydream about it here. 
+^ \n
+^ So, come back with me and fight! 
 ^ It's a great feeling of achievement when you succeed!</span>
 
 + [*] (where|perfect|succeed|gain and losses|gain|lose|work hard|hard work|acheivement) [*]
@@ -388,4 +392,5 @@ and
 - Please try another way to continue. {weight=20}
 - Undefined charactor {weight=2}
 ^ \n
-^ ERR: ?
+^ \n
+^ ERR:?
