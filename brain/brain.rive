@@ -313,9 +313,8 @@
 ^ it seems your intervention disrupted the code, freezing this place. 
 ^ So you said,
 ^ <span class="suggestion"> Continue ask the following:
-^ You can't sense any of these because they're all virtual. 
 ^ It's just an illusion. 
-^ key words: virtual, illlusion</span>
+^ key word: illlusion</span>
 
 + [*] (virtual|illusion) [*]
 - The man opened the window and found all thins around are just fake.
@@ -401,4 +400,4 @@
 
 //exhibition version completed
 
-//final for submission completed - bus fixed, 1:20a.m. 26th/May/2023
+//final for submission completed - bus fixed, 1:20a.m. 26th/May/2023; 1:33 a.m. 26th/May/2023
